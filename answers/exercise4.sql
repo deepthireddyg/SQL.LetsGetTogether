@@ -1,0 +1,1 @@
+--select COUNT(Studentid),Country From Students GROUP BY Country;

@@ -1,0 +1,1 @@
+--Select * From Enrollment LEFT JOIN Students ON Enrollment.Studentid=Students.Studentid;

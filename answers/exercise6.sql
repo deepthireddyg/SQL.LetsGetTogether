@@ -1,0 +1,1 @@
+--select COUNT(Studentid),Country FROM Students GROUP BY Country HAVING COUNT(Studentid)>10 ORDER BY Country DESC;
